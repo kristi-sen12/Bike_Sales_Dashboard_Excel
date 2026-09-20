@@ -1,4 +1,4 @@
-# Bike_Sales_Dashboard_Excel
+# Excel_Bike_Sales_Dashboard
 Interactive Bike Sales Dashboard created using Microsoft Excel, featuring data cleaning, Pivot Tables, charts, and slicers.
 # 🚲 Bike Sales Analysis & Interactive Excel Dashboard
 
