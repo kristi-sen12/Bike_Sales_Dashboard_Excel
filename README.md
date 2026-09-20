@@ -209,5 +209,9 @@ Possible improvements for the project include:
 * Recreating the analysis using **Power BI** or **Python**
 
 ---
+⭐ Acknowledgement
 
+Dataset used for educational and learning purposes.
+
+Special thanks to Alex The Analyst for providing Excel learning resources and datasets used widely for practicing data analytics.
 
